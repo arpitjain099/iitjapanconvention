@@ -1,0 +1,619 @@
+[09-Jul-2017 17:29:38 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'jainarpit'@'localhost' to database 'iitjapan' in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[09-Jul-2017 17:29:38 UTC] PHP Fatal error:  Call to a member function query() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 25
+[09-Jul-2017 17:30:10 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'jainarpit'@'localhost' to database 'iitjapan' in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[09-Jul-2017 17:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[09-Jul-2017 17:30:10 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[09-Jul-2017 17:30:17 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'jainarpit'@'localhost' to database 'iitjapan' in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[09-Jul-2017 17:30:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[09-Jul-2017 17:30:17 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[09-Jul-2017 17:30:59 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'jainarpit'@'localhost' to database 'iitjapan' in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[09-Jul-2017 17:30:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[09-Jul-2017 17:30:59 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[09-Jul-2017 17:31:14 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'jainarpit'@'localhost' to database 'iitjapan' in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[09-Jul-2017 17:31:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[09-Jul-2017 17:31:14 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[09-Jul-2017 17:31:36 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'jainarpit'@'localhost' to database 'iitjapan' in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[09-Jul-2017 17:31:36 UTC] PHP Notice:  Undefined index: name in /home/arpitjain099/public_html/server/registrationsignup.php on line 20
+[09-Jul-2017 17:31:36 UTC] PHP Notice:  Undefined index: email in /home/arpitjain099/public_html/server/registrationsignup.php on line 21
+[09-Jul-2017 17:31:36 UTC] PHP Notice:  Undefined index: number in /home/arpitjain099/public_html/server/registrationsignup.php on line 22
+[09-Jul-2017 17:31:36 UTC] PHP Notice:  Undefined index: location in /home/arpitjain099/public_html/server/registrationsignup.php on line 23
+[09-Jul-2017 17:31:36 UTC] PHP Notice:  Undefined index: company in /home/arpitjain099/public_html/server/registrationsignup.php on line 24
+[09-Jul-2017 17:31:36 UTC] PHP Notice:  Undefined index: student in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[09-Jul-2017 17:31:36 UTC] PHP Notice:  Undefined index: password in /home/arpitjain099/public_html/server/registrationsignup.php on line 26
+[09-Jul-2017 17:31:36 UTC] PHP Notice:  Undefined index: year in /home/arpitjain099/public_html/server/registrationsignup.php on line 27
+[09-Jul-2017 17:31:36 UTC] PHP Notice:  Undefined index: motivation in /home/arpitjain099/public_html/server/registrationsignup.php on line 28
+[09-Jul-2017 17:31:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[09-Jul-2017 17:31:36 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[09-Jul-2017 17:36:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[09-Jul-2017 17:36:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[09-Jul-2017 17:36:11 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[09-Jul-2017 17:36:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[09-Jul-2017 17:36:36 UTC] PHP Notice:  Undefined index: name in /home/arpitjain099/public_html/server/registrationsignup.php on line 20
+[09-Jul-2017 17:36:36 UTC] PHP Notice:  Undefined index: email in /home/arpitjain099/public_html/server/registrationsignup.php on line 21
+[09-Jul-2017 17:36:36 UTC] PHP Notice:  Undefined index: number in /home/arpitjain099/public_html/server/registrationsignup.php on line 22
+[09-Jul-2017 17:36:36 UTC] PHP Notice:  Undefined index: location in /home/arpitjain099/public_html/server/registrationsignup.php on line 23
+[09-Jul-2017 17:36:36 UTC] PHP Notice:  Undefined index: company in /home/arpitjain099/public_html/server/registrationsignup.php on line 24
+[09-Jul-2017 17:36:36 UTC] PHP Notice:  Undefined index: student in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[09-Jul-2017 17:36:36 UTC] PHP Notice:  Undefined index: password in /home/arpitjain099/public_html/server/registrationsignup.php on line 26
+[09-Jul-2017 17:36:36 UTC] PHP Notice:  Undefined index: year in /home/arpitjain099/public_html/server/registrationsignup.php on line 27
+[09-Jul-2017 17:36:36 UTC] PHP Notice:  Undefined index: motivation in /home/arpitjain099/public_html/server/registrationsignup.php on line 28
+[09-Jul-2017 17:36:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[09-Jul-2017 17:36:36 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[09-Jul-2017 17:41:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jainarpit'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[09-Jul-2017 17:41:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[09-Jul-2017 17:41:56 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[10-Jul-2017 13:12:32 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 31
+[10-Jul-2017 13:12:50 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 31
+[10-Jul-2017 13:12:52 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 31
+[10-Jul-2017 13:12:53 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 31
+[10-Jul-2017 13:12:54 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 31
+[10-Jul-2017 13:13:15 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 31
+[10-Jul-2017 13:13:16 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 31
+[10-Jul-2017 13:13:17 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 31
+[10-Jul-2017 13:13:26 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 31
+[10-Jul-2017 13:13:48 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 32
+[10-Jul-2017 13:13:51 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/arpitjain099/public_html/server/serverlogin.php on line 32
+[10-Jul-2017 13:15:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jainarpit'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[10-Jul-2017 13:15:12 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 34
+[10-Jul-2017 13:15:31 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jainarpit'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[10-Jul-2017 13:15:31 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:20:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fcbarcelona'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[10-Jul-2017 13:20:52 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:20:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fcbarcelona'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[10-Jul-2017 13:20:56 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:21:08 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/arpitjain099/public_html/server/serverlogin.php on line 9
+[10-Jul-2017 13:21:10 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/arpitjain099/public_html/server/serverlogin.php on line 9
+[10-Jul-2017 13:21:11 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/arpitjain099/public_html/server/serverlogin.php on line 9
+[10-Jul-2017 13:21:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fcbarcelona'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[10-Jul-2017 13:21:28 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:26:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fcbarcelona'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[10-Jul-2017 13:26:00 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:26:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fcbarcelona'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[10-Jul-2017 13:26:01 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:26:29 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fcbarcelona'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/servercredentials.php on line 3
+[10-Jul-2017 13:26:29 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:27:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fcbarcelona'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/serverlogin.php on line 8
+[10-Jul-2017 13:27:17 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:27:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fcbarcelona'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/serverlogin.php on line 8
+[10-Jul-2017 13:27:32 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:27:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fcbarcelona'@'148.66.136.56' (using password: YES) in /home/arpitjain099/public_html/server/serverlogin.php on line 8
+[10-Jul-2017 13:27:33 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/arpitjain099/public_html/server/serverlogin.php on line 33
+[10-Jul-2017 13:34:36 UTC] PHP Notice:  Undefined index: loginemail in /home/arpitjain099/public_html/server/serverlogin.php on line 17
+[10-Jul-2017 13:34:36 UTC] PHP Notice:  Undefined index: loginpassword in /home/arpitjain099/public_html/server/serverlogin.php on line 18
+[10-Jul-2017 13:35:12 UTC] PHP Notice:  Undefined index: loginemail in /home/arpitjain099/public_html/server/serverlogin.php on line 17
+[10-Jul-2017 13:35:12 UTC] PHP Notice:  Undefined index: loginpassword in /home/arpitjain099/public_html/server/serverlogin.php on line 18
+[10-Jul-2017 13:38:58 UTC] PHP Notice:  Undefined index: name in /home/arpitjain099/public_html/server/registrationsignup.php on line 20
+[10-Jul-2017 13:38:58 UTC] PHP Notice:  Undefined index: email in /home/arpitjain099/public_html/server/registrationsignup.php on line 21
+[10-Jul-2017 13:38:58 UTC] PHP Notice:  Undefined index: number in /home/arpitjain099/public_html/server/registrationsignup.php on line 22
+[10-Jul-2017 13:38:58 UTC] PHP Notice:  Undefined index: location in /home/arpitjain099/public_html/server/registrationsignup.php on line 23
+[10-Jul-2017 13:38:58 UTC] PHP Notice:  Undefined index: company in /home/arpitjain099/public_html/server/registrationsignup.php on line 24
+[10-Jul-2017 13:38:58 UTC] PHP Notice:  Undefined index: student in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[10-Jul-2017 13:38:58 UTC] PHP Notice:  Undefined index: password in /home/arpitjain099/public_html/server/registrationsignup.php on line 26
+[10-Jul-2017 13:38:58 UTC] PHP Notice:  Undefined index: year in /home/arpitjain099/public_html/server/registrationsignup.php on line 27
+[10-Jul-2017 13:38:58 UTC] PHP Notice:  Undefined index: motivation in /home/arpitjain099/public_html/server/registrationsignup.php on line 28
+[10-Jul-2017 13:39:13 UTC] PHP Notice:  Undefined index: name in /home/arpitjain099/public_html/server/registrationsignup.php on line 20
+[10-Jul-2017 13:39:13 UTC] PHP Notice:  Undefined index: email in /home/arpitjain099/public_html/server/registrationsignup.php on line 21
+[10-Jul-2017 13:39:13 UTC] PHP Notice:  Undefined index: number in /home/arpitjain099/public_html/server/registrationsignup.php on line 22
+[10-Jul-2017 13:39:13 UTC] PHP Notice:  Undefined index: location in /home/arpitjain099/public_html/server/registrationsignup.php on line 23
+[10-Jul-2017 13:39:13 UTC] PHP Notice:  Undefined index: company in /home/arpitjain099/public_html/server/registrationsignup.php on line 24
+[10-Jul-2017 13:39:13 UTC] PHP Notice:  Undefined index: student in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[10-Jul-2017 13:39:13 UTC] PHP Notice:  Undefined index: password in /home/arpitjain099/public_html/server/registrationsignup.php on line 26
+[10-Jul-2017 13:39:13 UTC] PHP Notice:  Undefined index: year in /home/arpitjain099/public_html/server/registrationsignup.php on line 27
+[10-Jul-2017 13:39:13 UTC] PHP Notice:  Undefined index: motivation in /home/arpitjain099/public_html/server/registrationsignup.php on line 28
+[10-Jul-2017 13:39:50 UTC] PHP Notice:  Undefined index: name in /home/arpitjain099/public_html/server/registrationsignup.php on line 20
+[10-Jul-2017 13:39:50 UTC] PHP Notice:  Undefined index: email in /home/arpitjain099/public_html/server/registrationsignup.php on line 21
+[10-Jul-2017 13:39:50 UTC] PHP Notice:  Undefined index: number in /home/arpitjain099/public_html/server/registrationsignup.php on line 22
+[10-Jul-2017 13:39:50 UTC] PHP Notice:  Undefined index: location in /home/arpitjain099/public_html/server/registrationsignup.php on line 23
+[10-Jul-2017 13:39:50 UTC] PHP Notice:  Undefined index: company in /home/arpitjain099/public_html/server/registrationsignup.php on line 24
+[10-Jul-2017 13:39:50 UTC] PHP Notice:  Undefined index: student in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[10-Jul-2017 13:39:50 UTC] PHP Notice:  Undefined index: password in /home/arpitjain099/public_html/server/registrationsignup.php on line 26
+[10-Jul-2017 13:39:50 UTC] PHP Notice:  Undefined index: year in /home/arpitjain099/public_html/server/registrationsignup.php on line 27
+[10-Jul-2017 13:39:50 UTC] PHP Notice:  Undefined index: motivation in /home/arpitjain099/public_html/server/registrationsignup.php on line 28
+[10-Jul-2017 13:40:11 UTC] PHP Notice:  Undefined index: name in /home/arpitjain099/public_html/server/registrationsignup.php on line 20
+[10-Jul-2017 13:40:11 UTC] PHP Notice:  Undefined index: email in /home/arpitjain099/public_html/server/registrationsignup.php on line 21
+[10-Jul-2017 13:40:11 UTC] PHP Notice:  Undefined index: number in /home/arpitjain099/public_html/server/registrationsignup.php on line 22
+[10-Jul-2017 13:40:11 UTC] PHP Notice:  Undefined index: location in /home/arpitjain099/public_html/server/registrationsignup.php on line 23
+[10-Jul-2017 13:40:11 UTC] PHP Notice:  Undefined index: company in /home/arpitjain099/public_html/server/registrationsignup.php on line 24
+[10-Jul-2017 13:40:11 UTC] PHP Notice:  Undefined index: student in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[10-Jul-2017 13:40:11 UTC] PHP Notice:  Undefined index: password in /home/arpitjain099/public_html/server/registrationsignup.php on line 26
+[10-Jul-2017 13:40:11 UTC] PHP Notice:  Undefined index: year in /home/arpitjain099/public_html/server/registrationsignup.php on line 27
+[10-Jul-2017 13:40:11 UTC] PHP Notice:  Undefined index: motivation in /home/arpitjain099/public_html/server/registrationsignup.php on line 28
+[10-Jul-2017 13:41:00 UTC] PHP Notice:  Undefined index: name in /home/arpitjain099/public_html/server/registrationsignup.php on line 20
+[10-Jul-2017 13:41:00 UTC] PHP Notice:  Undefined index: email in /home/arpitjain099/public_html/server/registrationsignup.php on line 21
+[10-Jul-2017 13:41:00 UTC] PHP Notice:  Undefined index: number in /home/arpitjain099/public_html/server/registrationsignup.php on line 22
+[10-Jul-2017 13:41:00 UTC] PHP Notice:  Undefined index: location in /home/arpitjain099/public_html/server/registrationsignup.php on line 23
+[10-Jul-2017 13:41:00 UTC] PHP Notice:  Undefined index: company in /home/arpitjain099/public_html/server/registrationsignup.php on line 24
+[10-Jul-2017 13:41:00 UTC] PHP Notice:  Undefined index: student in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[10-Jul-2017 13:41:00 UTC] PHP Notice:  Undefined index: password in /home/arpitjain099/public_html/server/registrationsignup.php on line 26
+[10-Jul-2017 13:41:00 UTC] PHP Notice:  Undefined index: year in /home/arpitjain099/public_html/server/registrationsignup.php on line 27
+[10-Jul-2017 13:41:00 UTC] PHP Notice:  Undefined index: motivation in /home/arpitjain099/public_html/server/registrationsignup.php on line 28
+[10-Jul-2017 13:41:12 UTC] PHP Notice:  Undefined index: name in /home/arpitjain099/public_html/server/registrationsignup.php on line 20
+[22-Jul-2017 14:26:10 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[22-Jul-2017 14:26:17 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[22-Jul-2017 14:26:19 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[22-Jul-2017 14:30:21 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[22-Jul-2017 15:58:04 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[22-Jul-2017 15:58:27 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[22-Jul-2017 16:02:44 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[23-Jul-2017 23:50:16 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[23-Jul-2017 23:50:23 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[23-Jul-2017 23:50:24 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[23-Jul-2017 23:51:22 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[23-Jul-2017 23:51:23 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[23-Jul-2017 23:51:51 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[23-Jul-2017 23:51:53 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[06-Aug-2017 02:49:05 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[06-Aug-2017 02:49:17 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[06-Aug-2017 04:00:14 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[06-Aug-2017 04:00:48 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[06-Aug-2017 04:31:24 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 32
+[06-Aug-2017 05:34:51 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[06-Aug-2017 06:21:40 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[06-Aug-2017 11:35:17 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[07-Aug-2017 14:21:37 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[07-Aug-2017 14:24:00 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[07-Aug-2017 14:24:50 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[07-Aug-2017 14:26:04 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[07-Aug-2017 14:29:10 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[07-Aug-2017 14:30:35 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[07-Aug-2017 14:30:38 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[10-Aug-2017 10:48:43 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 04:30:41 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 04:55:18 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 04:59:23 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 05:06:03 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:23:21 UTC] PHP Notice:  Undefined index: whichiitwereyouastudentof in /home/arpitjain099/public_html/server/registrationsignup.php on line 29
+[12-Aug-2017 06:23:21 UTC] PHP Notice:  Undefined index: yearofgraduation in /home/arpitjain099/public_html/server/registrationsignup.php on line 30
+[12-Aug-2017 06:23:21 UTC] PHP Notice:  Undefined index: typeofregistration in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[12-Aug-2017 06:23:21 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:25:41 UTC] PHP Notice:  Undefined index: whichiitwereyouastudentof in /home/arpitjain099/public_html/server/registrationsignup.php on line 29
+[12-Aug-2017 06:25:41 UTC] PHP Notice:  Undefined index: yearofgraduation in /home/arpitjain099/public_html/server/registrationsignup.php on line 30
+[12-Aug-2017 06:25:41 UTC] PHP Notice:  Undefined index: typeofregistration in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[12-Aug-2017 06:25:41 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:28:39 UTC] PHP Notice:  Undefined index: whichiitwereyouastudentof in /home/arpitjain099/public_html/server/registrationsignup.php on line 29
+[12-Aug-2017 06:28:39 UTC] PHP Notice:  Undefined index: yearofgraduation in /home/arpitjain099/public_html/server/registrationsignup.php on line 30
+[12-Aug-2017 06:28:39 UTC] PHP Notice:  Undefined index: typeofregistration in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[12-Aug-2017 06:28:39 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:28:39 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:28:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:28:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:28:39 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:29:10 UTC] PHP Notice:  Undefined index: whichiitwereyouastudentof in /home/arpitjain099/public_html/server/registrationsignup.php on line 29
+[12-Aug-2017 06:29:10 UTC] PHP Notice:  Undefined index: yearofgraduation in /home/arpitjain099/public_html/server/registrationsignup.php on line 30
+[12-Aug-2017 06:29:10 UTC] PHP Notice:  Undefined index: typeofregistration in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[12-Aug-2017 06:29:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:29:10 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:29:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:29:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:29:10 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:29:32 UTC] PHP Notice:  Undefined index: whichiitwereyouastudentof in /home/arpitjain099/public_html/server/registrationsignup.php on line 29
+[12-Aug-2017 06:29:32 UTC] PHP Notice:  Undefined index: yearofgraduation in /home/arpitjain099/public_html/server/registrationsignup.php on line 30
+[12-Aug-2017 06:29:32 UTC] PHP Notice:  Undefined index: typeofregistration in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[12-Aug-2017 06:29:32 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:29:32 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:29:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:29:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:29:32 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:29:44 UTC] PHP Notice:  Undefined index: whichiitwereyouastudentof in /home/arpitjain099/public_html/server/registrationsignup.php on line 29
+[12-Aug-2017 06:29:44 UTC] PHP Notice:  Undefined index: yearofgraduation in /home/arpitjain099/public_html/server/registrationsignup.php on line 30
+[12-Aug-2017 06:29:44 UTC] PHP Notice:  Undefined index: typeofregistration in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[12-Aug-2017 06:29:44 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:29:44 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:29:44 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:29:44 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:29:44 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:30:01 UTC] PHP Notice:  Undefined index: whichiitwereyouastudentof in /home/arpitjain099/public_html/server/registrationsignup.php on line 29
+[12-Aug-2017 06:30:01 UTC] PHP Notice:  Undefined index: yearofgraduation in /home/arpitjain099/public_html/server/registrationsignup.php on line 30
+[12-Aug-2017 06:30:01 UTC] PHP Notice:  Undefined index: typeofregistration in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[12-Aug-2017 06:30:01 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:30:01 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:30:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:30:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:30:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:30:01 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:30:06 UTC] PHP Notice:  Undefined index: whichiitwereyouastudentof in /home/arpitjain099/public_html/server/registrationsignup.php on line 29
+[12-Aug-2017 06:30:06 UTC] PHP Notice:  Undefined index: yearofgraduation in /home/arpitjain099/public_html/server/registrationsignup.php on line 30
+[12-Aug-2017 06:30:06 UTC] PHP Notice:  Undefined index: typeofregistration in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[12-Aug-2017 06:30:06 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:30:06 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:30:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:30:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:30:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:30:06 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:31:08 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:31:08 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:31:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:31:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:31:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:31:08 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:32:16 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:32:16 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:32:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:32:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:32:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 37
+[12-Aug-2017 06:32:16 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 46
+[12-Aug-2017 06:33:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:33:48 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:33:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:33:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:33:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:33:48 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 47
+[12-Aug-2017 06:34:46 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:34:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:34:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:34:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:34:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 40
+[12-Aug-2017 06:34:46 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 49
+[12-Aug-2017 06:35:16 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:35:16 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:35:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:35:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:35:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 40
+[12-Aug-2017 06:35:16 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 49
+[12-Aug-2017 06:37:12 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:37:12 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:37:12 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:37:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:37:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 40
+[12-Aug-2017 06:37:12 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 49
+[12-Aug-2017 06:37:14 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:37:14 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:37:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:37:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:37:14 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 40
+[12-Aug-2017 06:37:14 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 49
+[12-Aug-2017 06:37:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:37:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:37:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:37:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:37:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[12-Aug-2017 06:37:58 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 48
+[12-Aug-2017 06:38:40 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:38:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:38:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:38:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[12-Aug-2017 06:38:40 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 48
+[12-Aug-2017 06:39:13 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:39:13 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:39:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:39:13 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 48
+[12-Aug-2017 06:39:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:39:48 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:39:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:39:48 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 48
+[12-Aug-2017 06:40:11 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:40:11 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:40:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:40:11 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 48
+[12-Aug-2017 06:40:22 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:40:22 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:40:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:40:22 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:40:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:40:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:40:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:04 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:10 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:38 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:38 UTC] PHP Notice:  Undefined variable: count in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:41:41 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:41 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:41 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:41 UTC] PHP Notice:  Undefined variable: count in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:41:46 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:46 UTC] PHP Notice:  Undefined variable: count in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:41:55 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:55 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:55 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:41:55 UTC] PHP Notice:  Undefined variable: count in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:42:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:42:10 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:42:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:42:10 UTC] PHP Notice:  Undefined variable: count in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:42:22 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:42:22 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:42:22 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:42:22 UTC] PHP Notice:  Undefined variable: count in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:43:18 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:43:18 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:43:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:43:38 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:43:38 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:43:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:43:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:43:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:43:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:44:21 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:44:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:44:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:44:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:44:48 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:44:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:45:36 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:45:36 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:45:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:45:47 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:45:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:45:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:04 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:24 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:24 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:46:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:46:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:46:58 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:47:13 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:47:13 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:47:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:47:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:47:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:47:13 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:47:50 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:47:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:47:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:47:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:47:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:47:50 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:47:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:47:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:47:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:47:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:47:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:47:58 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:51:24 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:51:24 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:51:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:51:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 36
+[12-Aug-2017 06:51:24 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:51:24 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:51:28 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:28 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:51:28 UTC] PHP Notice:  Undefined variable: query in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:51:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:51:28 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:51:43 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:43 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:51:43 UTC] PHP Notice:  Undefined variable: query in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:51:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:51:43 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:51:45 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:45 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:51:45 UTC] PHP Notice:  Undefined variable: query in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:51:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:51:45 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:51:54 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:54 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:51:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:51:54 UTC] PHP Notice:  Undefined variable: query in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:51:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:51:54 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:52:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:52:48 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:52:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:52:48 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:52:48 UTC] PHP Notice:  Undefined variable: query in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:52:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:52:48 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:52:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:52:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:52:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:52:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:52:51 UTC] PHP Notice:  Undefined variable: query in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:52:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:52:51 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:53:04 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:53:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:53:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:53:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:53:04 UTC] PHP Notice:  Undefined variable: query in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:53:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:53:04 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:54:03 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:54:03 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:54:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:54:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:54:03 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:54:03 UTC] PHP Warning:  Illegal string offset 'total' in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:54:03 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:54:07 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:54:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:54:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:54:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:54:07 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:54:07 UTC] PHP Warning:  Illegal string offset 'total' in /home/arpitjain099/public_html/server/registrationsignup.php on line 38
+[12-Aug-2017 06:54:07 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[12-Aug-2017 06:54:40 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:54:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:54:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:54:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:54:40 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[12-Aug-2017 06:54:40 UTC] PHP Warning:  Illegal string offset 'total' in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[12-Aug-2017 06:54:40 UTC] PHP Notice:  Use of undefined constant data - assumed 'data' in /home/arpitjain099/public_html/server/registrationsignup.php on line 40
+[12-Aug-2017 06:54:40 UTC] PHP Warning:  Illegal string offset 'total' in /home/arpitjain099/public_html/server/registrationsignup.php on line 40
+[12-Aug-2017 06:54:40 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:55:05 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:55:05 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:55:05 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:55:05 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:55:05 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:55:14 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:55:14 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:55:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:55:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:55:14 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 06:56:35 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:56:35 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:56:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:56:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:56:35 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 06:56:50 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:56:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:56:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:56:50 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:56:50 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 06:56:53 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:56:53 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:56:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:56:53 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:56:53 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 06:57:11 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:57:11 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:57:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:57:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:57:11 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 06:57:13 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:57:13 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:57:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:57:13 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:57:13 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 06:57:21 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:57:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:57:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:57:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:57:21 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 06:59:23 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:59:23 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:59:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:59:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:59:23 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 06:59:45 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:59:45 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:59:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 06:59:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 06:59:45 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 46
+[12-Aug-2017 07:01:12 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:01:12 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:01:12 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:01:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 07:01:12 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 50
+[12-Aug-2017 07:01:49 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:01:49 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:01:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:01:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 07:01:49 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 07:02:40 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:02:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:02:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:02:40 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 07:02:40 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 37
+[12-Aug-2017 07:02:40 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 40
+[12-Aug-2017 07:02:40 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 07:02:42 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:02:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:02:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:02:42 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 07:02:42 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 37
+[12-Aug-2017 07:02:42 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 40
+[12-Aug-2017 07:02:42 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 45
+[12-Aug-2017 07:02:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:02:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:02:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:02:51 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 07:02:51 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 37
+[12-Aug-2017 07:02:51 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 42
+[12-Aug-2017 07:03:31 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:03:31 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:03:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:03:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 07:03:31 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[12-Aug-2017 07:03:31 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 07:04:07 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:04:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:04:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:04:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 07:04:07 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[12-Aug-2017 07:04:07 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 07:06:03 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:06:03 UTC] PHP Warning:  mysql_query(): Access denied for user 'arpitjain099'@'localhost' (using password: NO) in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:06:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/arpitjain099/public_html/server/registrationsignup.php on line 34
+[12-Aug-2017 07:06:03 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/arpitjain099/public_html/server/registrationsignup.php on line 35
+[12-Aug-2017 07:06:03 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 39
+[12-Aug-2017 07:06:03 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 07:06:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:06:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:06:53 UTC] PHP Notice:  Undefined variable: mysqli in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:06:53 UTC] PHP Fatal error:  Call to a member function query() on null in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:06:56 UTC] PHP Notice:  Undefined variable: mysqli in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:06:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:07:11 UTC] PHP Notice:  Undefined variable: mysqli in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:07:11 UTC] PHP Fatal error:  Call to a member function query() on null in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:07:36 UTC] PHP Notice:  Undefined variable: mysqli in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:07:36 UTC] PHP Fatal error:  Call to a member function query() on null in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:07:55 UTC] PHP Notice:  Undefined variable: mysqli in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:07:55 UTC] PHP Fatal error:  Call to a member function query() on null in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:07:58 UTC] PHP Notice:  Undefined variable: mysqli in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:07:58 UTC] PHP Fatal error:  Call to a member function query() on null in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:08:24 UTC] PHP Notice:  Undefined variable: mysqli in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:08:24 UTC] PHP Fatal error:  Call to a member function query() on null in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:08:34 UTC] PHP Notice:  Undefined variable: mysqli in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:08:34 UTC] PHP Fatal error:  Call to a member function query() on null in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:09:06 UTC] PHP Notice:  Undefined variable: mysqli in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:09:06 UTC] PHP Fatal error:  Call to a member function query() on null in /home/arpitjain099/public_html/server/registrationsignup.php on line 33
+[12-Aug-2017 07:10:16 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 42
+[12-Aug-2017 07:10:16 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 47
+[12-Aug-2017 07:10:38 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 42
+[12-Aug-2017 07:10:38 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 47
+[12-Aug-2017 07:10:40 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 42
+[12-Aug-2017 07:10:40 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 47
+[12-Aug-2017 07:10:41 UTC] PHP Notice:  Undefined variable: data in /home/arpitjain099/public_html/server/registrationsignup.php on line 42
+[12-Aug-2017 07:10:41 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 47
+[12-Aug-2017 07:11:16 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 07:11:18 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 07:11:39 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 07:11:41 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 07:12:01 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 08:24:27 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 08:29:46 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 08:31:14 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 08:31:35 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 09:02:16 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: name in /home/arpitjain099/public_html/server/registrationsignup.php on line 20
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: email in /home/arpitjain099/public_html/server/registrationsignup.php on line 21
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: number in /home/arpitjain099/public_html/server/registrationsignup.php on line 22
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: location in /home/arpitjain099/public_html/server/registrationsignup.php on line 23
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: company in /home/arpitjain099/public_html/server/registrationsignup.php on line 24
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: motivation in /home/arpitjain099/public_html/server/registrationsignup.php on line 26
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: iitalum in /home/arpitjain099/public_html/server/registrationsignup.php on line 27
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: iitjapan in /home/arpitjain099/public_html/server/registrationsignup.php on line 28
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: whichiitwereyouastudentof in /home/arpitjain099/public_html/server/registrationsignup.php on line 29
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: yearofgraduation in /home/arpitjain099/public_html/server/registrationsignup.php on line 30
+[12-Aug-2017 09:33:12 UTC] PHP Notice:  Undefined index: typeofregistration in /home/arpitjain099/public_html/server/registrationsignup.php on line 31
+[12-Aug-2017 14:11:07 UTC] PHP Notice:  Undefined index: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[12-Aug-2017 14:12:27 UTC] PHP Notice:  Undefined index: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[12-Aug-2017 14:12:55 UTC] PHP Notice:  Undefined index: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[12-Aug-2017 14:12:55 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 46
+[12-Aug-2017 14:13:00 UTC] PHP Notice:  Undefined index: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[12-Aug-2017 14:13:03 UTC] PHP Notice:  Undefined index: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 25
+[12-Aug-2017 14:13:31 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 46
+[12-Aug-2017 14:13:53 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[13-Aug-2017 04:40:14 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[13-Aug-2017 05:15:29 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 43
+[13-Aug-2017 13:31:10 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[13-Aug-2017 14:00:25 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[13-Aug-2017 14:08:28 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[13-Aug-2017 14:13:15 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[13-Aug-2017 14:13:33 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[13-Aug-2017 14:19:18 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[13-Aug-2017 14:21:53 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44
+[13-Aug-2017 22:58:07 UTC] PHP Notice:  Undefined variable: designation in /home/arpitjain099/public_html/server/registrationsignup.php on line 44

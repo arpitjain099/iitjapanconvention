@@ -198,7 +198,7 @@ h1,h2,h3,h4,h5,h6{
 .kode-content h3{
 	float:left;
 	border-top:3px solid black;
-	font-size:20px;
+	font-size:18px;
 	line-height:24px;
 	padding:15px 0 0;
 	text-transform:uppercase;
@@ -2741,6 +2741,15 @@ h1,h2,h3,h4,h5,h6{
     padding:8px 10px;
     width: 100%;
 }
+
+.kode-contact-area input[type="email"],  input[type="subject"], input[type="name"], input[type="password"]{
+    border: 1px solid rgb(185, 193, 204);
+    color: #666;
+    height: 43px;
+    margin-bottom: 30px;
+    padding:8px 10px;
+    width: 100%;
+}
 .kode-contact-area textarea{
 	height:184px;
 	width:100%;
@@ -5108,7 +5117,7 @@ ul.kode-tickets-title{
 	position:absolute;
 	left:30px;
 	top:50px;
-	border:solid 2px #fff;
+	border:solid 2px black;
 	z-index:1000;
 	overflow:hidden;
 	height:40px;

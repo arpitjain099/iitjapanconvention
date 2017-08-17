@@ -2,20 +2,8 @@ function white(v){
 	v.style.color="white";
 }
 
-function loginaction(){
-$.post( "https://radiant-woodland-44974.herokuapp.com/login", function() {
-  alert( "success" );
-})
-  .done(function() {
-    alert( "second success" );
-  })
-  .fail(function() {
-    alert( "error" );
-  });	
-}
-
 $( ".joineventindex" ).click(function() {
-	console.log("take me to registration page");
+	console.log("Taking user to registration page");
 	window.location.href="registration.html";
 });
 
@@ -25,18 +13,28 @@ function black(v){
 }
 
   function setbackgroundcolor(v){
-		console.log(v);
+console.log(v);
+  	setTimeout(function(){ try{
 		document.getElementById(v).className="active";
   		document.getElementById(v).style.background="#0c2d72";
   		document.getElementById(v).style.color="white";
+  		if(window.location.href.indexOf("mtij") >= 0){
+  		document.getElementById("program").classList.remove('active');
+  	}
+  	if(window.location.href.indexOf("speakers") >= 0){
+  		document.getElementById("program").classList.remove('active');
+  	}
+  		}
+  		catch(err){
+  			console.log(err);
+  		} }, 1000);
+		
+		
 }
 
 $(document).ready(function(){
-	
 	console.log("working");
   console.log(window.location.href);
-
-
 
   if(window.location.href.indexOf("index") >= 0)
   	{
@@ -52,8 +50,14 @@ $(document).ready(function(){
   		setbackgroundcolor("about_id");
   	}
 
-  else if(window.location.href.indexOf("previousconference") >= 0){
-  		setbackgroundcolor("pastconf_id");
+  else if(window.location.href.indexOf("speakers") >= 0){
+  		setbackgroundcolor("speakers_id");
+  		document.getElementById("program").classList.remove('active');
+  	}
+
+  else if(window.location.href.indexOf("mtij") >= 0){
+  		setbackgroundcolor("mtij_id");
+  		document.getElementById("program").classList.remove('active');
   	}
 
   else if(window.location.href.indexOf("sponsors") >= 0){
@@ -72,8 +76,10 @@ $(document).ready(function(){
 
   	$( "#loginbtn" ).click(function() {
 	console.log("login");
-$('#loginmodal').modal('toggle');
+$('#loginmodal').modal('show');
 });
+
+document.getElementsByClassName("fa fa-bars")[0].style.color="black";
 });
 
 
@@ -512,22 +518,3 @@ $('#loginmodal').modal('toggle');
 		});
 	}
 		  
-
-
-	/*
-	  ==============================================================
-		 Google Map
-	  ============================================================== 
-		google.maps.event.addDomListener(window, 'load', initialize);
-		google.maps.event.addDomListener(window, 'load', initialize_new);
-	*/
-	/*
-	  		var options = {
-		horizontal: 1,
-		itemNav: 'basic',
-		speed: 300,
-		mouseDragging: 1,
-		touchDragging: 1
-		};
-		var frame = new Sly('#scrollbar', options).init();
-		*/
