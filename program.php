@@ -63,7 +63,7 @@ w3IncludeHTML();
                     <h2>Program</h2>
                     <span style="font-size:18px" align="justify">In an interactive atmosphere of speeches, panel discussions, field visits, workshops, entertainment program and cocktail dinners coupled with media coverage, the convention offers excellent opportunities to connect with leaders with extensive international outlook.
                     </span>
-                   <iframe style="width:100%" src="https://docs.google.com/presentation/d/1XB2T3o__CjAuQbgJNghPVAkARgIcKZrUrM4PUr1tyk8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+                   <iframe style="width:100%" src="https://docs.google.com/presentation/d/1yNFIlloewBNu4NG5K6J2nhwYKXlF905FkmuUfc6hZBE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
                     
                 </div>
                 

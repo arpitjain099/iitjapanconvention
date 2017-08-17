@@ -116,24 +116,22 @@
     <th class="centeralign">Includes</th>
   </tr>
   <tr style="border-bottom: 1px solid">
-    <td class="centeralign" style="border-right: 1px solid;">Open Registration (Free)</td>
-    <td class="centeralign">Free participation to talks</td>
-  </tr>
-  <tr style="border-bottom: 1px solid">
     <td class="centeralign" style="border-right: 1px solid;">Registration: Regular (7,500¥)</td>
-    <td class="centeralign">Access to all events (includes talks, panel discussion,  lunch on 1st Dec, except Gala Dinner)</td>
+    <td class="centeralign">Access to Talks, Panel Discussions and Networking Sessions</td>
   </tr>
   <tr style="border-bottom: 1px solid">
     <td class="centeralign" style="border-right: 1px solid;">Registration: Student (3,000¥)</td>
-    <td class="centeralign">Access to all events (includes talks, panel discussion,  lunch on 1st Dec, except Gala Dinner)</td>
+    <td class="centeralign">Access to Talks, Panel Discussions and Networking Sessions</td>
   </tr>
   <tr style="border-bottom: 1px solid">
-    <td class="centeralign" style="border-right: 1px solid;">Gala Dinner only (Price to be announced later)</td>
+    <td class="centeralign" style="border-right: 1px solid;">Gala Dinner only (Approx. 20,000¥. Final price may change.)</td>
     <td class="centeralign">Details to be provided later</td>
   </tr>
 </table>
 <br/>
-<span>All above events includes access to MTIJ 3 day event.</span>
+<span> All Registration packages include Snacks to be provided in between sessions and Networking Lunch<br/>
+  Gala dinner is Not included in the above Registration packages<br/>
+  All Registrants will have access to 3 Day long MTIJ event</span>
 <style>
 .centeralign{
   text-align: center;
@@ -226,6 +224,42 @@
 <span style="vertical-align: middle;">No</span>
 </label>
       </div>
+    </div>  
+
+<br/>
+        <div class="form-group">
+      <label class="control-label col-sm-2" for="pwd" style="font-size:18px"> Interested in Gala Dinner:</label>
+      <div class="col-sm-10">
+
+        <label for="interestedingaladinneryes" style="font-size: 18px;">
+<input type="radio" id="interestedingaladinneryes" name="galadinnerinterest" value="interestedingaladinneryes"/>
+<span style="vertical-align: middle;">Yes</span>
+</label>
+ <label for="interestedingaladinnerno" style="font-size: 18px; padding-left: 30px;">
+<input type="radio" id="interestedingaladinnerno" name="galadinnerinterest" value="interestedingaladinnerno" checked/>
+<span style="vertical-align: middle;">No</span>
+</label>
+      </div>
+    </div>
+
+
+        <div class="form-group" id="showfoodpreferences" style="display: none;">
+      <label class="control-label col-sm-2" for="pwd" style="font-size:18px">Gala Dinner Food Preferences:</label>
+      <div class="col-sm-10">
+
+        <label for="foodprefvegetarian" style="font-size: 18px;">
+<input type="radio" id="foodprefvegetarian" name="galadinnerpreferences" value="foodprefvegetarian" checked/>
+<span style="vertical-align: middle;">Vegetarian</span>
+</label>
+ <label for="foodprefnonvegetarian" style="font-size: 18px; padding-left: 30px;">
+<input type="radio" id="foodprefnonvegetarian" name="galadinnerpreferences" value="foodprefnonvegetarian"/>
+<span style="vertical-align: middle;">Non-Vegetarian</span>
+</label>
+<label for="foodprefrestricteditem" style="font-size: 18px; padding-left: 30px;">
+<input type="radio" id="foodprefrestricteditem" name="galadinnerpreferences" value="foodprefrestricteditem"/>
+<span style="vertical-align: middle;">Restricted Food Items</span>
+</label>
+      </div>
     </div>
 
     <div class="form-group" id="includeiniitjapandetails1"  style="display:none;">
@@ -275,10 +309,9 @@
 </label>
       <div class="col-sm-10">          
         <select id="typeofregistration" style="height: 35px;">
-          <option value="registrationregular">Open Registration (Free)</option>
           <option value="registrationregular">Registration: Regular (7,500¥)</option>
           <option value="registrationstudent">Registration: Student (3,000¥)</option>
-          <option value="galadinnerregular">Gala Dinner only: (Price to be announced later)</option>
+          <option value="galadinnerregular">Gala Dinner only: (Approx. 20,000¥. Final price may change.)</option>
         </select>
       </div>
     </div>
@@ -289,7 +322,7 @@
       <div class="col-sm-10" style="font-size: 18px;">
         <input type="radio" name="mtijregistrationstatus" id="mtijregistrationyes" value="mtijregistrationyes" style="margin-right: 10px;">
         <label for="mtijregistrationyes" style="margin-right: 20px;">Yes</label>
-        <input type="radio" name="mtijregistrationstatus" id="mtijregistrationno" value="mtijregistrationno"style="margin-right: 10px;">
+        <input type="radio" name="mtijregistrationstatus" id="mtijregistrationno" value="mtijregistrationno"style="margin-right: 10px;" checked>
         <label for="mtijregistrationno">No</label>     
         <!--<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal" id="calltomtijreg">Open Modal</button>-->
       </div>
@@ -721,6 +754,16 @@ $('#iitno').change(function() {
           document.getElementById("includeiniitjapan").style.display="none";
     });
 
+$('#interestedingaladinneryes').change(function() {
+        if(this.checked)
+          document.getElementById("showfoodpreferences").style.display="block";
+    });
+
+$('#interestedingaladinnerno').change(function() {
+        if(this.checked)
+          document.getElementById("showfoodpreferences").style.display="none";
+    });
+
 $('#iitjapanyes').change(function() {
         if(this.checked)
           document.getElementById("includeiniitjapandetails1").style.display="block";
@@ -776,6 +819,8 @@ $("#registeruser").click(function(){
   whichiitwereyouastudentof:document.getElementById("whichiitwereyouastudentof").value,
   yearofgraduation:document.getElementById("yearofgraduation").value,
   company:document.getElementById("company").value,
+  interestedingaladinner:$('input[name=galadinnerinterest]:checked').val(),
+  galadinnerpreferences:$('input[name=galadinnerpreferences]:checked').val(),
   location:document.getElementById("location").value,
   designation: document.getElementById("designation").value,
   typeofregistration: document.getElementById("typeofregistration").value,

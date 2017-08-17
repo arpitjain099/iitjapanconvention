@@ -27,6 +27,8 @@ if (mysqli_connect_errno($con))
   $iitalum=$_POST['iitalum']; 
   $iitjapan=$_POST['iitjapan']; 
   $whichiitwereyouastudentof=$_POST['whichiitwereyouastudentof']; 
+  $interestedingaladinner=$_POST['interestedingaladinner']; 
+  $galadinnerpreferences=$_POST['galadinnerpreferences']; 
   $yearofgraduation=$_POST['yearofgraduation']; 
   $typeofregistration=$_POST['typeofregistration']; 
   $regid=time();
@@ -41,7 +43,7 @@ $result = mysqli_query($con,"SELECT * FROM users where email='$email'");
       echo "1";
     } else {
       //username is not present
-      $result = mysqli_query($con,"INSERT INTO `users` VALUES('$name','$email','$number','$location','$company','$designation','$motivation','$iitalum','$iitjapan','$whichiitwereyouastudentof','$yearofgraduation','$typeofregistration','$regid');");
+      $result = mysqli_query($con,"INSERT INTO `users` VALUES('$name','$email','$number','$location','$company','$interestedingaladinner', '$galadinnerpreferences', '$designation','$motivation','$iitalum','$iitjapan','$whichiitwereyouastudentof','$yearofgraduation','$typeofregistration','$regid');");
       if($result){
       echo "0";
 

@@ -110,6 +110,18 @@
 							</figure>
 						</div>
 					</div>
+					<div class="col-md-4 col-sm-6 col-xs-12 filterable-item all 1 2">
+						<div class="kode_portfoiol_wrap">
+							<figure>
+								<img src="http://isaj.org/sites/default/files/user1/logo1.png" alt="MTIJ">
+								<figcaption class="kode_fortfolio_detail" style="height: 100%;">
+									<div class="caption-holder" style="height: 100%;">
+										<strong style="margin-top: 0;">Indian Scientists Association in Japan</strong>
+									</div>
+								</figcaption>
+							</figure>
+						</div>
+					</div>
 					
 				</div>				
 				</div>

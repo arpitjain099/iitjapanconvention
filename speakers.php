@@ -46,6 +46,26 @@
 				<div class="row">
 					<div id="kode-speaker-causel" class="owl-carousel">
                     
+                        <div class="kode-newspeaker col-md-4" style="width: 30%">
+                            <div class="speaker-photo">
+                                <img src="images/hira.jpg" alt="" style="height: 318px;">
+                            </div>
+                            <div class="new-ourspeaker" style="height: 90px;">
+                                <h3>Hirabayashi Hiroshi / <span>President, Japan India Association</span></h3>
+                                
+                            </div>
+                            <div class="new-ourspeaker over-state">
+                                <h3 style="color: black;">Hirabayashi Hiroshi / President, Japan India Association</h3>
+                                <!--
+                                <ul class="newpseaker-media">
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/ebihara/?ppe=1"><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            -->
+                            </div>
+                            
+                        </div>
+                        
+
 						<div class="kode-newspeaker col-md-4" style="width: 30%">
 							<div class="speaker-photo">
 								<img src="http://home.iitk.ac.in/~vyas/images/Nalinaksh%20Vyas.png" alt="" style="height: 318px;">
@@ -59,8 +79,7 @@
 								</ul>-->
 							</div>
 							<div class="new-ourspeaker over-state">
-								<h3>Dr. Nalinaksh S. Vyas / <span>Chairman, Technology Mission for Indian Railways, 2015 - Present</span></h3>
-								<p>Dr. Vyas serves as the Chairman, Technology Mission for Indian railways. He is also affi</p>-->
+								<h3 style="color: black;">Dr. Nalinaksh S. Vyas / Chairman, Technology Mission for Indian Railways, 2015 - Present</h3>
 								<!--<ul class="newpseaker-media">
                                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -84,34 +103,17 @@
                                 </ul>-->
 							</div>
 							<div class="new-ourspeaker over-state">
-								<h3>Vikram Gupta/ <span>Founder and Managing Partner
-, Ivy Cap Ventures, India</span></h3>
+								<h3 style="color: black;">Vikram Gupta / Founder and Managing Partner
+, Ivy Cap Ventures, India</h3>
 								<!--<p>Dr. Tharoor specialises in theory on how Indian resources can be of use to Asian organizations.</p>-->
 								<ul class="newpseaker-media">
-                                    <li><a target="_blank" href="https://www.linkedin.com/in/vikramgupta2/"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a target="_blank"  style="color: black;" href="https://www.linkedin.com/in/vikramgupta2/"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
 							</div>
 							<!-- kode-new speaker over state End -->
 						</div>
                         
-						<div class="kode-newspeaker col-md-4" style="width: 30%">
-							<div class="speaker-photo">
-								<img src="images/hira.jpg" alt="" style="height: 318px;">
-							</div>
-							<div class="new-ourspeaker" style="height: 90px;">
-								<h3>Hirabayashi Hiroshi / <span>President, Japan India Association</span></h3>
-								
-							</div>
-							<div class="new-ourspeaker over-state">
-								<h3>Hirabayashi Hiroshi / <span>President, Japan India Association</span></h3>
-								<!--
-								<ul class="newpseaker-media">
-                                    <li><a target="_blank" href="https://www.linkedin.com/in/ebihara/?ppe=1"><i class="fa fa-linkedin"></i></a></li>
-                                </ul>
-                            -->
-							</div>
-							
-						</div>
+						
                         
 					</div>
 				</div>

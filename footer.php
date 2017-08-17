@@ -25,9 +25,8 @@
 						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 							<strong class="title">Links</strong>
 							<ul class="twitterfeed-nav">
-								<li><!--<i class="fa fa-twitter"></i>--> <a href="access.php">Access</a></li>
 								<li><!--<i class="fa fa-twitter"></i>--> <a href="notifications.php">News & Updates</a></li>
-								<li><!--<i class="fa fa-twitter"></i>--> <a href="faq.php">Frequently Asked Questions</a></li>
+								<li><!--<i class="fa fa-twitter"></i>--> <a href="faq.php">Access & Frequently Asked Questions</a></li>
 								<li><!--<i class="fa fa-twitter"></i>--> <a href="team.php">Organizing Team</a></li>
 								<li><!--<i class="fa fa-twitter"></i>--> <a href="speakers.php">Speakers</a></li>
 								<li><!--<i class="fa fa-twitter"></i>--> <a href="http://iit.org/" target="_blank">PAN IIT Website</a></li>
